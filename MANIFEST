@@ -1,0 +1,11 @@
+Changes
+InputStream.pm
+ObjectStreamConstants.pm
+FileInputStream.pm
+FilteredInputStream.pm
+ObjectInputStream.pm
+Makefile.PL
+MANIFEST
+README
+t/1.t
+t/myobj.ser
